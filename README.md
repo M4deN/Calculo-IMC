@@ -45,9 +45,7 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 
 
-<h2 id="autor">Autor do Projeto:</h2>
-
-<h3>Alécio L. Medeiros</h3>
+#### Autor do Projeto: Alécio L. Medeiros
 
 <p> 
   <a href="https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/">
@@ -63,10 +61,8 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
   </a>   
 </p>
 
-<ul>
-  <li>Estudante De Engenharia De Software</li>
-  <li>Adentrando a UX/UI </li>
-</ul>
+  #### Estudante De Engenharia De Software
+
 
 
 
