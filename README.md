@@ -36,13 +36,14 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 <p>A página apresenta apenas uma sessão, que é a sessão principal. Nela contém a calculadora IMC e a classificação de IMC<p>
 
 <h3>Sessão Principal:</h3>
-<img src="https://live.staticflickr.com/65535/51383580620_bbdde154cd_h.jpg" />
+
+![Começo](https://github.com/AlexDeSaran/Calculo-IMC/blob/main/img/c1.png)
 
 <h3>Sessão Principal mostrando o IMC:</h3>
-<img src="https://live.staticflickr.com/65535/51383309969_71134729e5_h.jpg" />
-<h3>Versão Mobile:</h3>
 
-<p><img src="https://live.staticflickr.com/65535/51381806752_9abf976192_z.jpg" /> <img src="https://live.staticflickr.com/65535/51383309889_5d4909a67b_z.jpg" /></p>
+![Começo](https://github.com/AlexDeSaran/Calculo-IMC/blob/main/img/C2.png)
+
+
 
 <h2 id="autor">Autor do Projeto:</h2>
 
@@ -68,14 +69,4 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 </ul>
 
 
-<h2 id="consideracoes">Conseiderações Finais:</h2>
 
-<p>Esse projeto foi ideal para por em prática manipulação de eventos com o Javascript.</p>
-<p>Apesar de ser uma informação simples, há bastante interação entre os itens da página, mostrando o resultado do IMC após clicar no botão de calcular e ao mesmo tempo mostrar na tabela sua classificação de IMC.</p>
-<p>Utilizei de uma tipografia simples mas muito atrativa, o que deixa o site bem elegante.</p>
-
-<p>O projeto não ficou 100% da forma que eu queria, mas consegui realizar o cálculo IMC de forma correta, o que já me agradadou bastante.</p>
-
-<p>Foi muito divertido finalizar esse projeto. Apesar de simples, dá para se praticar bastante coisa com ele. Recomendo a todos!</p>
-
-<p><b>Esse projeto é livre, podendo pegá-lo e utilizá-lo em seus projetos e trabalhos <b></p>
