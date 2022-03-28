@@ -10,7 +10,7 @@
 
 <ul>
  <li><a href="#sobre">Sobre</a></li>
- <li><a href="#tecnologias">Técnologias usadas</a></li> 
+ <li><a href="#tecnologias">Tecnologias usadas</a></li> 
  <li><a href="#sessao">sessão da página</a></li>
  <li><a href="#autor">Autor</a></li> 
 </ul>
@@ -21,7 +21,7 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 <p>O projeto está Totalmente responsivo, atendendo a todos os dispositivos.</p>
 
-<h2 id="tecnologias">Técnologias Usadas:</h2>
+<h2 id="tecnologias">Tecnologias Usadas:</h2>
 
 <p> Todo o projeto foi feito do zero, sem a utilizadação de frameworks ou bibliotecas. </p>
 
