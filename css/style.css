@@ -43,18 +43,6 @@ h1 {
   align-items: start;
 }
 
-.main-section aside {
-  color: var(--white);
-  grid-column: 2 / 3;
-  justify-self: end;
-}
-
-.main-section aside a {
-  margin-left: 0.2em;
-  color: var(--white);
-  text-decoration: underline;
-}
-
 .calc-section {
   margin-top: 58px;
   padding: 2em;
@@ -251,4 +239,19 @@ h1 {
   .tabela h1 {
     font-size: 1.2em;
   }
+}
+
+footer{
+  position: fixed;
+  color: var(--white);
+  bottom: 0;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+}
+footer p, a{
+  margin-top: auto;
+  margin-left: 0.2em;
+  color: var(--white);
+
 }
