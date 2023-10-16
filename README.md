@@ -2,7 +2,6 @@
 <p><b>Site funcional para calcular o IMC. 🧮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://alexdesaran.github.io/Calculo-IMC/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
@@ -10,8 +9,8 @@
 
 <ul>
  <li><a href="#sobre">Sobre</a></li>
- <li><a href="#tecnologias">Tecnologias usadas</a></li> 
- <li><a href="#sessao">sessão da página</a></li>
+ <li><a href="#tecnologias">Tecnologias</a></li> 
+ <li><a href="#sessao">Sessão da Página</a></li>
 </ul>
 
 <h2 id="sobre">Sobre</h2>
@@ -21,8 +20,6 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 <p>O projeto está Totalmente responsivo, atendendo a todos os dispositivos.</p>
 
 <h2 id="tecnologias">Tecnologias Usadas:</h2>
-
-<p> Todo o projeto foi feito do zero, sem a utilizadação de frameworks ou bibliotecas. </p>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,3 +38,9 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 <h3>Sessão Principal mostrando o IMC:</h3>
 
 ![Começo](https://github.com/AlexDeSaran/Calculo-IMC/blob/main/img/C2.png)
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT [LICENSE](LICENSE).
